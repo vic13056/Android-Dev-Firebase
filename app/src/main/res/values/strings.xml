@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My FireBase Database</string>
+    <string name="enter_id_no">Enter ID No.</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">save</string>
+    <string name="view">view</string>
+    <string name="tetview">TextView</string>
+    <string name="txtview">TextView</string>
+    <string name="extview">TextView</string>
+</resources>
